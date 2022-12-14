@@ -1,3 +1,15 @@
+
+### Get this product for $5
+
+<i>Packt is having its biggest sale of the year. Get this eBook or any other book, video, or course that you like just for $5 each</i>
+
+
+<b><p align='center'>[Buy now](https://packt.link/9781803246789)</p></b>
+
+
+<b><p align='center'>[Buy similar titles for just $5](https://subscription.packtpub.com/search)</p></b>
+
+
 # Azure Data Engineering Cookbook	2nd-edition
 <a href="https://www.packtpub.com/product/azure-data-engineering-cookbook-second-edition/9781803246789"><img src="https://static.packt-cdn.com/products/9781803246789/cover/smaller" alt="Azure Data Engineering Cookbook" height="256px" align="right"></a>
 
